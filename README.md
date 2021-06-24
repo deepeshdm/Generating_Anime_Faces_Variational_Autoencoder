@@ -1,0 +1,2 @@
+# Generating_Anime_Faces_Variational_Autoencoder
+Generating Anime Faces using Vanilla Variational Autoencoder.
